@@ -29,23 +29,24 @@ A comprehensive and scalable backend API built with **Laravel 10**, designed to 
 ## 🔧 Installation & Setup
 
 1. **Clone the repository:**
+   ```bash
     git clone https://github.com/ali-hamdan-002/Global-Tourism-Booking-System.git
     ```
-2.  **Install Dependencies:**
+3.  **Install Dependencies:**
     ```bash
     composer install
     ```
-3.  **Environment Configuration:**
+4.  **Environment Configuration:**
     ```bash
     cp .env.example .env
     php artisan key:generate
     ```
-4.  **Database Setup:**
+5.  **Database Setup:**
     Configure your `.env` database settings, then run:
     ```bash
     php artisan migrate
     ```
-5.  **Run Server:**
+6.  **Run Server:**
     ```bash
     php artisan serve
     ```
