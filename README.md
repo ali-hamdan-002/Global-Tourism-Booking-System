@@ -28,9 +28,8 @@ A comprehensive and scalable backend API built with **Laravel 10**, designed to 
 
 ## 🔧 Installation & Setup
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/ali-hamdan-002/Global-Tourism-Booking-System.git](https://github.com/ali-hamdan-002/Global-Tourism-Booking-System.git)
+1. **Clone the repository:**
+    git clone https://github.com/ali-hamdan-002/Global-Tourism-Booking-System.git
     ```
 2.  **Install Dependencies:**
     ```bash
